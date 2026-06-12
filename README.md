@@ -2,7 +2,7 @@
 
 <H1 ALIGN=CENTER> Experiment-4: Implementation of Hidden Markov Model </H1>
 
-### Name: Sri Muthazhagan P
+### Name: SRI MUTHAZHAGAN P
 ### Register Number: 2305002024
 
 ## Aim: 
